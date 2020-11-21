@@ -6,3 +6,7 @@ EASE is the Most Simplest, Most Powerful Music Recommender Tools.
 To get more, take a look of the following pdf!
 
 https://arxiv.org/pdf/1905.03375v1.pdf
+
+Check How it works!
+
+https://www.youtube.com/watch?v=moeybd05HyE
