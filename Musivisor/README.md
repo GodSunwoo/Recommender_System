@@ -9,4 +9,4 @@ https://arxiv.org/pdf/1905.03375v1.pdf
 
 Check How it works!
 
-https://www.youtube.com/watch?v=moeybd05HyE
+[![EASE Modelling](https://img.youtube.com/vi/moeybd05HyE/0.jpg)](https://www.youtube.com/watch?v=moeybd05HyE)
